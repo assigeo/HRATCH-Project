@@ -5,4 +5,4 @@ The app is built with HTML/CSS/JQuery.
 ## Usage
 Just click in this link below to see the projects.
 
-Here: http://www.projects.sitebox.gr
+Here: http://sitebox.gr/projects/tests/hratch/
